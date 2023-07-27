@@ -1,0 +1,3 @@
+[webserver]
+
+wordpress ansible_host=24.199.83.174
